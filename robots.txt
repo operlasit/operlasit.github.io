@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://operlasit.github.io/operlasit.txt.gz
+Sitemap: https://operlasit.github.io/app/operlasit.txt.gz
+Sitemap: https://operlasit.github.io/assets/operlasit.txt.gz
+Sitemap: https://operlasit.github.io/css/operlasit.txt.gz
+Sitemap: https://operlasit.github.io/includes/operlasit.txt.gz
+Sitemap: https://operlasit.github.io/item/operlasit.txt.gz
+Sitemap: https://operlasit.github.io/src/operlasit.txt.gz
